@@ -5,5 +5,6 @@ This speedometer is a custom-built device created using the Arduino Mega 2560 mi
 
 ![IMG_20240115_185843](https://github.com/bazingamofos/TFT-Speedometer/assets/69231405/552a1dee-f527-4633-b7de-26f0f3ab7b9e)
 
-https://github.com/bazingamofos/TFT-Speedometer/assets/69231405/11f9d8da-c997-4eb5-8076-26c2bc3b90f7
+Working Video -
 
+https://github.com/bazingamofos/TFT-Speedometer/assets/69231405/e77aca26-f172-45a9-a8c0-00ab5f5550f0
