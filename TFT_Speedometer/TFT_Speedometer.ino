@@ -46,7 +46,7 @@ int k = 0;
 // Speed calculations related constants and variables
 
 const int irSensorPin = 20;  
-unsigned long lastTime = 6006;
+//unsigned long lastTime = 6006;
 unsigned long lastPulseTime = 0;
 volatile int pulseCount = 0;
 const float radius = 0.03;
